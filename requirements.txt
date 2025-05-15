@@ -1,0 +1,12 @@
+Flask
+flask-cors
+opencv-python
+numpy
+imagehash
+Pillow
+matplotlib
+scikit-image
+torch
+torchvision
+web3
+scikit-learn

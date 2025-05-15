@@ -1,0 +1,21 @@
+{
+    "filename": "594accc5-3783-490b-9f23-4a373bdd5b14.jpeg",
+    "phash_list": [
+        "8138cee169663ae7"
+    ],
+    "dct_list": [
+        "b3f0d8dadad8c4e0"
+    ],
+    "hist_list": [
+        "191e0c086f7e7438"
+    ],
+    "ai_feature_path": "static/features/594accc5-3783-490b-9f23-4a373bdd5b14.jpeg.pkl",
+    "duplicate_flag": 1,
+    "best_match": {
+        "matched_video": null,
+        "phash_percent": 0,
+        "dct_percent": 0,
+        "hist_percent": 0,
+        "ai_match_percent": 0
+    }
+}
